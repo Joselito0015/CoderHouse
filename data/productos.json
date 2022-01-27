@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Maze Runner2",
+    "price": 50,
+    "thumbnail": "url del producto",
+    "id": 1
+  },
+  {
+    "title": "narnia",
+    "price": 10,
+    "thumbnail": "url del producto",
+    "id": 2
+  },
+  {
+    "title": "Los 3 cerditos",
+    "price": 20,
+    "thumbnail": "url del producto",
+    "id": 3
+  }
+]
